@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bipashadas12
 - 👀 I’m interested in code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Myntra
-- 📫 How to reach me through Senior
+- 🌱 I’m currently working on Python, Machine Learning, and Deep Learning 
+- 💞️ I’m looking Data Scientist Position
+- 📫 How to reach me through linkedin.com as Bipasha Das
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
